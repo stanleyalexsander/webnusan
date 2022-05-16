@@ -19,7 +19,7 @@
         rel="stylesheet">
 
     <!-- CSS Icon -->
-    <link rel="stylesheet" href="{{ asset('vendor/fontawesome-free-5.15.4/css/all.min.css') }}">
+    <link rel="stylesheet" href="vendor/fontawesome-free-5.15.4/css/all.min.css">
 
     <!-- CSS Slick -->
     <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" />

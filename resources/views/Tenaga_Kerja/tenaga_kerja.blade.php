@@ -80,7 +80,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\03. MUH SARUJI 2.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\03._MUH_SARUJI_2.jpg') }}" alt="">
                             <p>Muhammad Saruji, HB, S.Ag, MM</p>
                             <hr class="my-2">
                             <p>Wakil Bidang</p>
@@ -89,7 +89,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\58. PANJI HARDJIANTO.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\58._PANJI_HARDJIANTO.jpg') }}" alt="">
                             <p>Pandji Hardjianto, A.Md</p>
                             <hr class="my-2">
                             <p>Ketua Jurusan</p>
@@ -98,7 +98,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\05. TARUDIN.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\05._TARUDIN.jpg') }}" alt="">
                             <p>Tarudin, S.pd</p>
                             <hr class="my-2">
                             <p>Ketua Jurusan</p>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\06. INUNG.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\06._INUNG.jpg') }}" alt="">
                             <p>Inung Idawati, SE</p>
                             <hr class="my-2">
                             <p>Ketua Jurusan</p>
@@ -154,7 +154,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\11. IMA MARYAMA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\11._IMA_MARYAMA.jpg') }}" alt="">
                             <p>Ima Maryama, M.Pd</p>
                             <hr class="my-2">
                             <p>Pembina Rohis</p>
@@ -163,7 +163,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\12. NURJANAH ZA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\12._NURJANAH_ZA.jpg') }}" alt="">
                             <p>Nurjanah, SE, MM</p>
                             <hr class="my-2">
                             <p>Pembina Pramuka</p>
@@ -191,7 +191,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\15. SARTOYO SOEMAN.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\15._SARTOYO_SOEMAN.jpg') }}" alt="">
                             <p>Sartoyo Soeman, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -200,7 +200,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\17. YUSRONI.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\17._YUSRONI.jpg') }}" alt="">
                             <p>Yusroni, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -209,7 +209,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\18. RUZAYANA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\18._RUZAYANA.jpg') }}" alt="">
                             <p>Ruzayana, S.Pd, MM</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -218,7 +218,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\19. bahrozih.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\19._bahrozih.jpg') }}" alt="">
                             <p>Bahrozih, SE, MM</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -227,7 +227,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\20. KANAAH DJ.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\20._KANAAH_DJ.jpg') }}" alt="">
                             <p>Dra. Kana'ah Djamal, SE, MM</p>
                             <hr class="my-2">
                             <p>Koordinator</p>
@@ -266,7 +266,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\24. HUSNUL UMMAH 2.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\24._HUSNUL_UMMAH_2.jpg') }}" alt="">
                             <p>Husnul Ummah, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -275,7 +275,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\25. H.JONI BASTIAN.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\25._H.JONI_BASTIAN.jpg') }}" alt="">
                             <p>H. Joni Bastian, SE, MM</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -284,7 +284,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\26. ANNIE R.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\26._ANNIE_R.jpg') }}" alt="">
                             <p>Annie Rufaidah M.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -293,7 +293,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\27. MARINO.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\27._MARINO.jpg') }}" alt="">
                             <p>Marino, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -302,7 +302,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\28. M. ARSYAD NUUR.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\28._M._ARSYAD_NUUR.jpg') }}" alt="">
                             <p>Muhammad Arsyad Noor, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -311,7 +311,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\29. HERDIANTO.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\29._HERDIANTO.jpg') }}" alt="">
                             <p>Herdianto, S.HI</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -330,7 +330,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\31. MEULANA MALAHAYATI.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\31._MEULANA_MALAHAYATI.jpg') }}" alt="">
                             <p>Meulana Malahayati, S.Pd, MM</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -339,7 +339,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\32. RINI RAMDANI YAFAS.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\32._RINI_RAMDANI_YAFAS.jpg') }}" alt="">
                             <p>Rini Ramadani Yafas, SE, MM.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -348,7 +348,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\33. SHARTIKA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\33._SHARTIKA.jpg') }}" alt="">
                             <p>Shartika Wanitri S, S.Kom</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -357,7 +357,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\34. HANUM NINGTYAS.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\34._HANUM_NINGTYAS.jpg') }}" alt="">
                             <p>Hanum Ningtyas, M.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -366,7 +366,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\35. ERNITA K.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\35._ERNITA_K.jpg') }}" alt="">
                             <p>Ernita Krisnayanti, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -385,7 +385,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\37. ICE NURURROHMAH.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\37._ICE_NURURROHMAH.jpg') }}" alt="">
                             <p>Ice Nurur Rohmah, M.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -404,7 +404,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\39. HJ.TIENELFIA A.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\39._HJ.TIENELFIA_A.jpg') }}" alt="">
                             <p>Dra. Hj. Tienelfia Agus</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -413,7 +413,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\40. H.MACHFUD ARIFIN.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\40._H.MACHFUD_ARIFIN.jpg') }}" alt="">
                             <p>H. Machfud Arifin, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -422,7 +422,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\41. EUIS TIEN M.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\41._EUIS_TIEN_M.jpg') }}" alt="">
                             <p>Euis Tien Muliawati, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -479,7 +479,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\47. SADINI.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\47._SADINI.jpg') }}" alt="">
                             <p>Sadini, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi PKN &</p>
@@ -517,7 +517,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\52. KURNIA INDAH 2.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\52._KURNIA_INDAH_2.jpg') }}" alt="">
                             <p>Kurnia Indah Yunita, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -526,8 +526,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" style="opacity: 0;"
-                                src="{{ asset('foto\PROFILE\1.PIMPINAN\07_ISMOWATI_LESTARI_2.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\53._ERMAWASA_A.jpg') }}" alt="">
                             <p>Ermawasa Agustina, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -536,7 +535,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\53. ERMAWASA A.jpg') }}" alt="">
+                            <img class="mb-3" style="opacity: 0;" src="{{ asset('foto\53._ERMAWASA_A.jpg') }}" alt="">
                             <p>Hikmatullah, S.Kom</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -545,7 +544,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\55. MARINI.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\55._MARINI.jpg') }}" alt="">
                             <p>Marini, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -554,7 +553,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\56. ESTIKAJATI.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\56._ESTIKAJATI.jpg') }}" alt="">
                             <p>Estikajati, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -563,7 +562,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\57. JAKA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\57._JAKA.jpg') }}" alt="">
                             <p>Jaka Mulyana, SE</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -572,7 +571,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\59. FEBIYOLA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\59._FEBIYOLA.jpg') }}" alt="">
                             <p>Febi Yola Anjani, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -581,8 +580,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" style="opacity: 0;"
-                                src="{{ asset('foto\PROFILE\1.PIMPINAN\07_ISMOWATI_LESTARI_2.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\60._INTAN_ADMALIA.jpg') }}" alt="">
                             <p>Intan Atmalia</p>
                             <hr class="my-2">
                             <p>Guru Bidang Studi</p>
@@ -591,7 +589,8 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\60. INTAN ADMALIA.jpg') }}" alt="">
+                            <img class="mb-3" style="opacity: 0;" src="{{ asset('foto\60._INTAN_ADMALIA.jpg') }}"
+                                alt="">
                             <p>Dedah Jubaedah, S.Pdi</p>
                             <hr class="my-2">
                             <p>Guru</p>
@@ -600,7 +599,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\63. SYIFA MHJ.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\63._SYIFA_MHJ.jpg') }}" alt="">
                             <p>Syifa, MHJ, S.Psi</p>
                             <hr class="my-2">
                             <p>Guru</p>
@@ -609,7 +608,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\64. FILMA YENTI 2.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\64._FILMA_YENTI_2.jpg') }}" alt="">
                             <p>Filmayenti, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru</p>
@@ -618,7 +617,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\66. SYAHRI AHMAD.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\66._SYAHRI_AHMAD.jpg') }}" alt="">
                             <p>Syahri Ahmad, S.Pd</p>
                             <hr class="my-2">
                             <p>Guru Piket</p>
@@ -627,7 +626,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\67. WAHID N DAES.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\67._WAHID_N_DAES.jpg') }}" alt="">
                             <p>Wahid Nur Dais</p>
                             <hr class="my-2">
                             <p>Guru Piket</p>
@@ -701,7 +700,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\75. HAFIFAH.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\75._HAFIFAH.jpg') }}" alt="">
                             <p>Hafifah Fajriah, SE</p>
                             <hr class="my-2">
                             <p>Ketua Bagian</p>
@@ -738,7 +737,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\80. ADE PERMATA AYU LELI.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\80._ADE_PERMATA_AYU_LELI.jpg') }}" alt="">
                             <p>Ade Permata Ayu Leli</p>
                             <hr class="my-2">
                             <p>Staff Perpustakaan</p>
@@ -747,7 +746,7 @@
                     </div>
                     <div class="col-2 mb-3">
                         <div class="card">
-                            <img class="mb-3" src="{{ asset('foto\81. DINDAA.jpg') }}" alt="">
+                            <img class="mb-3" src="{{ asset('foto\81._DINDAA.jpg') }}" alt="">
                             <p>Dinda Nur Anisa</p>
                             <hr class="my-2">
                             <p>Staff Klinik</p>
